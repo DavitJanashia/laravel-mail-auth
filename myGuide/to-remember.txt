@@ -1,0 +1,2 @@
+1. .env failis modifikaciaa sachiro
+2. da mailtrap-is gamoyeneba (video-90 kursis)

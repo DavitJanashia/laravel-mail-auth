@@ -1,0 +1,2 @@
+1. composer require guzzlehttp/guzzle --> unda davainstaliro proeqtshi tu emailis gagzavnis chamontajeba minda
+2. php artisan make:mail {{ name }}
